@@ -1,0 +1,21 @@
+{
+  "name": "irem",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nextui-org/slider": "^2.2.15",
+    "@swc/helpers": "^0.5.12",
+    "next": "^12.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
